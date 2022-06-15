@@ -1,0 +1,23 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+h1{text-align: center;
+  color: dimgray;
+  font-family: sans-serif;
+  text-shadow: -2px 2px black
+}
+h3{text-align: center;
+  color: pink;
+  font-family: sans-serif;
+  text-shadow: -2px 2px black
+}
+h4{text-align: center;
+  color: hotpink;
+  font-family: sans-serif
+}
+p{text-align: center;
+  color: slategrey;
+  font-family: sans-serif}
